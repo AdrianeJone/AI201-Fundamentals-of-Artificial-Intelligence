@@ -17,19 +17,19 @@ This repository contains the three programming assignments I completed for AI201
 
 ## Assignments
 
-### [PA2 – Naive Bayes Spam Filter](.PA2_Spam_Filter/)
-
-Implemented a Naive Bayes text classifier from scratch to detect spam emails using the TREC06 corpus (~37,800 emails). Explored the zero-frequency problem, additive (lambda) smoothing, and Mutual Information-based feature selection following the methodology of Hovold (2005).
-
-**Key skills:** Probabilistic classification, text preprocessing, log-probability arithmetic, feature selection, confusion matrix analysis
-
----
-
 ### [PA1 - A* Search Algorithm](.PA1_A_star/)
 
 Implemented the A\* informed search algorithm to solve the classic 8-puzzle problem, following the pseudocode from the course lectures. Compared three heuristic functions: Misplaced Tiles, Manhattan Distance, and Nilsson's Sequence Score, in terms of solution quality and search efficiency.
 
 **Key skills:** Search algorithms, heuristic design, state-space search, path reconstruction
+
+---
+
+### [PA2 – Naive Bayes Spam Filter](.PA2_Spam_Filter/)
+
+Implemented a Naive Bayes text classifier from scratch to detect spam emails using the TREC06 corpus (~37,800 emails). Explored the zero-frequency problem, additive (lambda) smoothing, and Mutual Information-based feature selection following the methodology of Hovold (2005).
+
+**Key skills:** Probabilistic classification, text preprocessing, log-probability arithmetic, feature selection, confusion matrix analysis
 
 ---
 
