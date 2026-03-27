@@ -81,8 +81,8 @@ Where:
 
 | File | Description |
 |---|---|
+| `AI201-2S2025-26-PA_1 Astar.pdf` | Instructions for the assignment |
 | `AI201_Programming_Assignment_1.ipynb` | Main Jupyter Notebook (all cells pre-executed) |
-| `AI201-2S2025-26-PA_1 Astar.pdf` | Written report |
 | `astar_in.txt` | Input file containing the start and goal states |
 
 ---

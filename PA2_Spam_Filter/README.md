@@ -82,6 +82,7 @@ Reduces the 82,476-word vocabulary to the **200 most informative words** using M
 
 | File | Description |
 |---|---|
+| `AI201_2SAY25-26 Spam Detection using Naive Bayes.pdf` | Instructions for the assignmen |
 | `AI201_Programming_Assignment_2.ipynb` | Main Jupyter Notebook (all cells pre-executed) |
 | `PA2_Adriane_Jone_Abunda.pdf` | Written report |
 | `train_set.csv` | Training set (26,475 emails, 70% split) |

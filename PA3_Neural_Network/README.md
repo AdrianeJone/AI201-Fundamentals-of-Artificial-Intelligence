@@ -103,9 +103,10 @@ Training SSE dropped from ~5,496 to ~56 over 200 epochs. Validation SSE decrease
 
 | File | Description |
 |---|---|
+| `AI201-2S25-26-PA3_Neural_Network.pdf`  | Instructions for the assignment |
 | `Programming_Assignment_3_Neural_Network.ipynb` | Main notebook — MLP training, evaluation, and comparison |
 | `Programming_Assignment_3_SMOTE.ipynb` | Data preprocessing — SMOTE oversampling |
-| `AI201-2S25-26-PA3_Neural_Network.pdf` | Written report |
+| `PA3_Adriane_Jone_Abunda.pdf` | Written report |
 | `training_set.csv` / `training_labels.csv` | SMOTE-balanced training data |
 | `validation_set.csv` / `validation_labels.csv` | Validation data |
 | `test_set.csv` | Unlabeled test set for final predictions |

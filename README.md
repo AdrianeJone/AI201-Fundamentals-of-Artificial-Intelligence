@@ -11,7 +11,7 @@
 
 I am Adriane Jone A. Abunda, a graduate student in the Master of Engineering in Artificial Intelligence program. My undergraduate background is in BS Chemical Engineering, and these programming assignments represent my hands-on work as I build a foundation in AI and machine learning from the ground up.
 
-This repository contains the three programming assignments I completed for AI201. Each assignment required implementing a core AI algorithm from scratch in Python, without relying on high-level ML libraries for the core logic, only NumPy, standard Python, and `matplotlib` were used.
+This repository contains the programming assignments I completed thus far for my AI201 class. Each assignment required implementing a core AI algorithm from scratch in Python, without relying on high-level ML libraries for the core logic, only NumPy, standard Python, and `matplotlib` were used.
 
 ---
 
